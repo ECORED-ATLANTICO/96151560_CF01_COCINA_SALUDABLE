@@ -1,1 +1,2 @@
-module.exports = 'Titulo del componente formativo'
+module.exports =
+  'Fundamentos de la cocina saludable: insumos, equipos y técnicas esenciales.'

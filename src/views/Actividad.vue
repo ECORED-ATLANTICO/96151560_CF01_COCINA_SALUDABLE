@@ -20,7 +20,7 @@ export default {
       tema: 'Verificando mis saberes: cuestionario sobre fundamentos de cocina saludable, BPM, equipos y técnicas.',
       titulo: 'Cuestionario Didáctico',
       introduccion:
-        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre cocina saludable, Buenas Prácticas de Manufactura (BPM), normatividad sanitaria colombiana, selección de materias primas, equipos y utensilios, y técnicas básicas de higiene, corte, cocción y conservación.<br><b>Instrucciones:</b> lea cada enunciado referente a los temas desarrollados en el componente formativo y elija una opción según corresponda.',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre cocina saludable, Buenas Prácticas de Manufactura (BPM), normatividad sanitaria colombiana, selección de materias primas, equipos y utensilios, y técnicas básicas de higiene, corte, cocción y conservación.',
       barajarPreguntas: true,
       titulo_aprobado: '¡EXCELENTE!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

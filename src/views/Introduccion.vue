@@ -22,7 +22,7 @@
             .col-lg
               p.mb-0 Según la OMS (2026), una alimentación saludable protege contra estas enfermedades, principales causas de muerte a nivel global. En Colombia, el Ministerio de Salud (2022) alerta sobre el aumento de malos hábitos alimentarios: alto consumo de ultraprocesados y baja ingesta de frutas, verduras y fibra.
     
-    .bg-full-width.bg-fondo-04.px-5.py-4.px-lg-4
+    .bg-full-width.bg-fondo-04.px-5.py-4.px-lg-5
       img(src="@/assets/curso/intro/img03.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-11(data-aos="fade-right")

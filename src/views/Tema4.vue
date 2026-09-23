@@ -221,7 +221,7 @@
               p.mb-2 Corte transversal que produce piezas circulares u ovaladas de grosor uniforme, especialmente en alimentos de forma cilíndrica. Se utiliza frecuentemente en zanahorias, pepinos, calabacines y frutas para ensaladas, guarniciones, salteados, horneados y decoraciones.
               p.mb-0 <b>Dimensiones:</b> 2-5 mm de grosor.
 
-              
+
     figure.mb-3
       img(src="@/assets/curso/intro/img04.png", alt="").mb-0
 

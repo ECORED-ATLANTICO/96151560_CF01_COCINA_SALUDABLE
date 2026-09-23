@@ -170,7 +170,7 @@
           figure
             img(src="@/assets/curso/tema3/img14.png")
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0.p-3
-          p.mb-0 En cocina saludable, la precisión es clave para el control de porciones y el equilibrio nutricional. A diferencia de la cocina tradicional, donde se puede "cocinar al ojo", aquí cada gramo cuenta para garantizar que el plato final cumpla con los requerimientos nutricionales establecidos. Los sistemas de medición más utilizados incluyen la báscula digital, que mide en gramos y kilogramos con precisión de 1g; el termómetro de cocina, indispensable para verificar temperaturas internas de cocción y almacenamiento; y las cucharas y tazas medidoras, útiles para líquidos y pequeñas cantidades de especias. La báscula digital es, sin duda, la herramienta más importante, ya que elimina la subjetividad y permite e
+          p.mb-0 En cocina saludable, la precisión es clave para el control de porciones y el equilibrio nutricional. A diferencia de la cocina tradicional, donde se puede "cocinar al ojo", aquí cada gramo cuenta para garantizar que el plato final cumpla con los requerimientos nutricionales establecidos. Los sistemas de medición más utilizados incluyen la báscula digital, que mide en gramos y kilogramos con precisión de 1g; el termómetro de cocina, indispensable para verificar temperaturas internas de cocción y almacenamiento; y las cucharas y tazas medidoras, útiles para líquidos y pequeñas cantidades de especias. La báscula digital es, sin duda, la herramienta más importante, ya que elimina la subjetividad y permite estandarizar recetas, controlar costos y ofrecer información nutricional confiable al comensal.
 
     .row.justify-content-center.mb-4
       .col-md-6.col-lg-3.mb-4.mb-lg-0
@@ -388,9 +388,28 @@
               h4.text-center Almacenar en lugar seguro
               p.text-center.mb-0 Los utensilios cortopunzantes (cuchillos) deben guardarse en su soporte magnético o en estuches, nunca sueltos en un cajón. Los equipos móviles deben guardarse con el cable enrollado sin nudos y lejos de fuentes de calor.
 
+    //- p.mb-4.mt-5 El uso de equipos y utensilios de cocina requiere aplicar medidas de seguridad que permitan prevenir cortes, quemaduras y otros accidentes durante la preparación de los alimentos. Reconocer los riesgos asociados con elementos cortopunzantes, superficies calientes y equipos de cocción facilita adoptar prácticas de manipulación segura. A continuación, se presentan algunas situaciones que requieren especial atención y prevención en la cocina:
 
+    //- .row.justify-content-center.mb-4
+    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
+    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
+    //-       h4.mb-2.text-center Con cuchillos
+    //-       p.mb-0.text-center Nunca intentar atrapar un cuchillo que se cae. No dejar cuchillos sumergidos en agua con jabón (invisibles y peligrosos). Usar la técnica de "mano en garra" para guiar el alimento.
 
+    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
+    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
+    //-       h4.mb-2.text-center Con aceite caliente (freidoras)
+    //-       p.mb-0.text-center Secar bien el alimento antes de introducirlo para evitar salpicaduras. Introducir el alimento suavemente, dejándolo caer desde la superficie. Tener una tapa y un extintor clase K cerca.
 
+    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
+    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
+    //-       h4.mb-2.text-center Con superficies calientes (hornos, planchas)
+    //-       p.mb-0.text-center Usar siempre paños secos o guantes térmicos. Un paño húmedo conduce el calor y puede causar una quemadura por vapor. Establecer señalización de "superficie caliente".
+
+    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
+    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
+    //-       h4.mb-2.text-center Con partes móviles (batidoras, procesadores)
+    //-       p.mb-0.text-center Nunca introducir las manos, cucharas o espátulas mientras el equipo está en movimiento. Esperar siempre a que se detenga por completo. Usar las baquetas o impulsores adecuados.
 
 </template>
 

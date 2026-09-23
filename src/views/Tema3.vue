@@ -26,15 +26,15 @@
 
     .row.mb-4.mb-lg-5.justify-content-center
       .col-lg-6.mb-4.mb-lg-0
-        .bg-fondo-03.p-4.br-15.mb-0.h-100
+        .bg-fondo-03.p-4.br-15.mb-0.h-100.align-content-center
           .row.align-items-center.mb-0
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/img02.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 <b>Equipo mayor</b>: son aquellos de gran tamaño, generalmente fijos o semi-fijos, que requieren instalación especial (eléctrica, a gas, ventilación o sistemas de drenaje). Constituyen la columna vertebral de la producción y su ubicación define el flujo de trabajo. Ejemplos: cocinas industriales (hornillas), hornos (combi, convección, rotativos), campanas extractoras, refrigeradores y congeladores industriales, lavavajillas, freidoras, marmitas, abatidores de temperatura (blast chiller). Su selección depende del volumen y tipo de producción del establecimiento.
     
-      .col-lg-6.mb-4.mb-lg-0
-        .bg-fondo-01.p-4.br-15.mb-0.h-100
+      .col-lg-6.mb-0.mb-lg-0
+        .bg-fondo-01.p-4.br-15.mb-0.h-100.align-content-center
           .row.align-items-center.mb-0
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/img03.svg", style="max-width: 90px").mx-auto
@@ -118,7 +118,7 @@
     .row.justify-content-center.mb-5
       .col-md-6.col-lg-4.col-xl.mb-4.mb-xl-0
         .tarjeta.bg-color-08.p-4.h-100.text-center
-          img.img-85.mb-3(src='@/assets/curso/tema3/img08.png', alt='Cuchillo chef')
+          img.img-85.mb-3(src='@/assets/curso/tema3/img06.png', alt='Cuchillo chef')
           p.mb-0 <b>Cuchillo chef</b> (o de cocina): hoja ancha y curva de 15 a 30 cm. Es el más versátil para picar, trocear y cortar en dados.
 
       .col-md-6.col-lg-4.col-xl.mb-4.mb-xl-0
@@ -155,7 +155,8 @@
           h5.text-bold.mb-0 Figura 2.
           span Código de colores para la prevención de contaminación cruzada
         figure
-          img(src="@/assets/curso/tema3/img12.svg", alt="La figura presenta un sistema de diferenciación por colores para organizar el uso de utensilios según el tipo y condición de los alimentos manipulados. La clasificación separa productos vegetales, carnes, aves, pescados y mariscos, alimentos preparados y otros productos de consumo habitual. Esta identificación facilita asignar superficies o utensilios específicos durante la preparación, contribuyendo a mantener un flujo de trabajo ordenado y a disminuir el riesgo de contaminación cruzada entre alimentos crudos y aquellos que están listos para consumir.")
+          img.d-none.d-lg-block(src="@/assets/curso/tema3/img12.svg", alt="La figura presenta un sistema de diferenciación por colores para organizar el uso de utensilios según el tipo y condición de los alimentos manipulados. La clasificación separa productos vegetales, carnes, aves, pescados y mariscos, alimentos preparados y otros productos de consumo habitual. Esta identificación facilita asignar superficies o utensilios específicos durante la preparación, contribuyendo a mantener un flujo de trabajo ordenado y a disminuir el riesgo de contaminación cruzada entre alimentos crudos y aquellos que están listos para consumir.")
+          img.d-block.d-lg-none(src="@/assets/curso/tema3/img13.svg", alt="La figura presenta un sistema de diferenciación por colores para organizar el uso de utensilios según el tipo y condición de los alimentos manipulados. La clasificación separa productos vegetales, carnes, aves, pescados y mariscos, alimentos preparados y otros productos de consumo habitual. Esta identificación facilita asignar superficies o utensilios específicos durante la preparación, contribuyendo a mantener un flujo de trabajo ordenado y a disminuir el riesgo de contaminación cruzada entre alimentos crudos y aquellos que están listos para consumir.")
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")

@@ -65,9 +65,10 @@
                 td No usar trapos que puedan recontaminar. Secar en escurridor limpio.
 
     .container
-      .titulo-con-imagen_2.mb-4(data-aos="fade-right")
-        .titulo-con-imagen__fondo_2
-          h3.titulo-con-imagen__texto_2 Protocolo para desinfección de frutas y verduras
+      .titulo-con-imagen.mb-4(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
+          h3.titulo-con-imagen__texto Protocolo para desinfección de frutas y verduras
 
     p.mb-4 Las frutas y verduras, especialmente las de hoja verde y las que se consumen crudas, pueden ser vehículo de patógenos como <em>E. coli</em> o <em>Salmonella</em>. Para desinfectarlas se recomienda lo siguiente:
 
@@ -109,32 +110,32 @@
         .col-lg
           p.mb-0 La adecuada limpieza y sanitización de utensilios y superficies es fundamental para prevenir la contaminación y garantizar la inocuidad de los alimentos. Para lograrlo, se debe seguir una secuencia ordenada que permita eliminar residuos, remover suciedad y reducir la presencia de microorganismos, como se presenta a continuación:
 
-    .row.justify-content-center.mt-4.mb-3.mb-lg-5
-      .col-md-6.col-lg.mb-4.mb-lg-0
+    .row.justify-content-center.mt-4.mb-3.mb-lg-4
+      .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-4.mb-xl-0
         .tarjeta.bg-color-06.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img05.png', alt='Raspar y enjuagar')
           h4.mb-3.text-center Raspar y enjuagar.
           p.mb-0.text-center Eliminar sólidos.
 
-      .col-md-6.col-lg.mb-4.mb-lg-0
+      .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-4.mb-xl-0
         .tarjeta.bg-color-08.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img06.png', alt='Lavar')
           h4.mb-3.text-center Lavar.
           p.mb-0.text-center Detergente + agua caliente (+ acción mecánica).
 
-      .col-md-6.col-lg.mb-4.mb-lg-0
+      .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-4.mb-xl-0
         .tarjeta.bg-color-12.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img07.png', alt='Enjuagar')
           h4.mb-3.text-center Enjuagar.
           p.mb-0.text-center Remover detergente.
 
-      .col-md-6.col-lg.mb-4.mb-lg-0
+      .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-0.mb-xl-0
         .tarjeta.bg-color-10.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img08.png', alt='Sanitizar')
           h4.mb-3.text-center Sanitizar.
           p.mb-0.text-center Agente químico (cloro, amonio cuaternario). Respetar tiempo de contacto.
 
-      .col-md-6.col-lg.mb-0.mb-lg-0
+      .col-md-6.col-lg-4.col-xl.mb-0.mb-lg-0
         .tarjeta.bg-color-03.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img09.png', alt='Secar al aire')
           h4.mb-3.text-center Secar al aire.

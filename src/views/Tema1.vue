@@ -192,7 +192,7 @@
         .tarjeta-numerada.color-primario.p-4.h-100.align-content-center
           .tarjeta-numerada__numero
             .h2 1
-          p.text-center.mb-2 
+          p.text-center.mb-2.p-2 
             b Antes de iniciar
           p.text-center.mb-0 Para eliminar los contaminantes traídos del exterior.
 
@@ -200,7 +200,7 @@
         .tarjeta-numerada.color-2.p-4.h-100.align-content-center
           .tarjeta-numerada__numero
             .h2 2
-          p.text-center.mb-2 
+          p.text-center.mb-2.p-2 
             b Después de usar el baño
           p.text-center.mb-0 La medida más importante para prevenir la contaminación fecal-oral.
 
@@ -208,23 +208,23 @@
         .tarjeta-numerada.color-3.p-4.h-100.align-content-center
           .tarjeta-numerada__numero
             .h2 3
-          p.text-center.mb-2 
+          p.text-center.mb-2.p-2 
             b Después de manipular crudos
           p.text-center.mb-0 Para evitar transferir patógenos de carnes, pollo o pescado a otros alimentos.
 
-      .col-md-6.col-lg-4.col-xl.mb-4.mb-xl-0
+      .col-md-6.col-lg-4.col-xl.mb-lg-0.mb-xl-0.mb-4
         .tarjeta-numerada.color-4.p-4.h-100.align-content-center
           .tarjeta-numerada__numero
             .h2 4
-          p.text-center.mb-2 
+          p.text-center.mb-2.p-2 
             b Después de tocar material contaminado
           p.text-center.mb-0 Como basura, dinero, trapos sucios o productos de limpieza.
 
-      .col-md-6.col-lg-4.col-xl.mb-0.mb-xl-0
+      .col-md-6.col-lg-4.col-xl.mb-lg-0.mb-xl-0.mb-0
         .tarjeta-numerada.color-5.p-4.h-100.align-content-center
           .tarjeta-numerada__numero
             .h2 5
-          p.text-center.mb-2 
+          p.text-center.mb-2.p-2 
             b Después de tocarse cara / cabello
           p.text-center.mb-0 La piel y mucosas son reservorios de bacterias como <em>Staphylococcus aureus</em>.
 

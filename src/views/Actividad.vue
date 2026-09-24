@@ -177,7 +177,7 @@ export default {
           id: 5,
           texto:
             '¿Cuál es el material estándar recomendado para equipos y utensilios en una cocina profesional y por qué?',
-          imagen: '@/assets/actividad/imagen1.png',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -213,7 +213,7 @@ export default {
           id: 6,
           texto:
             '¿Qué método de cocción es el más recomendado para preservar las vitaminas hidrosolubles (como la vitamina C y las del complejo B)?',
-          imagen: '@/assets/actividad/imagen2.png',
+          imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -246,7 +246,7 @@ export default {
           id: 7,
           texto:
             'En el marco normativo colombiano, ¿cuál de las siguientes afirmaciones es correcta?',
-          imagen: '@/assets/actividad/imagen3.png',
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -282,7 +282,7 @@ export default {
           id: 8,
           texto:
             '¿Qué es la "zona de peligro" en la conservación de alimentos?',
-          imagen: '@/assets/actividad/imagen4.png',
+          imagen: '@/assets/actividad/imagen8.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -319,7 +319,7 @@ export default {
           id: 9,
           texto:
             '¿Cuál es el código de colores estándar para las tablas de picar y su uso correcto?',
-          imagen: '@/assets/actividad/imagen1.png',
+          imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -356,7 +356,7 @@ export default {
           id: 10,
           texto:
             '¿Cuál es la función principal de un abatidor de temperatura (blast chiller) en una cocina profesional?',
-          imagen: '@/assets/actividad/imagen2.png',
+          imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -393,7 +393,7 @@ export default {
           id: 11,
           texto:
             '¿Qué caracteriza al método de cocción llamado "escalfado" (poaching)?',
-          imagen: '@/assets/actividad/imagen3.png',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -430,7 +430,7 @@ export default {
           id: 12,
           texto:
             '¿Cuál de los siguientes NO es un pilar de las Buenas Prácticas de Manufactura (BPM)?',
-          imagen: '@/assets/actividad/imagen4.png',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -463,7 +463,7 @@ export default {
           id: 13,
           texto:
             '¿Qué utensilio se caracteriza por tener una hoja pequeña y recta de 6 a 10 cm, ideal para pelar frutas y hacer cortes de precisión?',
-          imagen: '@/assets/actividad/imagen1.png',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -496,7 +496,7 @@ export default {
           id: 14,
           texto:
             'Según el protocolo de limpieza y desinfección (tren de lavado de 5 pasos), ¿cuál es el orden correcto de los pasos?',
-          imagen: '@/assets/actividad/imagen2.png',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -530,7 +530,7 @@ export default {
           id: 15,
           texto:
             '¿Cuál es la temperatura interna de cocción segura recomendada para el pollo?',
-          imagen: '@/assets/actividad/imagen3.png',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -562,7 +562,7 @@ export default {
         {
           id: 16,
           texto: '¿Cuál de los siguientes es un peligro físico en la cocina?',
-          imagen: '@/assets/actividad/imagen4.png',
+          imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -594,7 +594,7 @@ export default {
         {
           id: 17,
           texto: '¿Qué establece la Resolución 2674 de 2013 en Colombia?',
-          imagen: '@/assets/actividad/imagen1.png',
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -630,7 +630,7 @@ export default {
           id: 18,
           texto:
             '¿Qué técnica de corte se utiliza para obtener tiras finas y alargadas de 3-4 cm de largo por 2 mm de ancho?',
-          imagen: '@/assets/actividad/imagen2.png',
+          imagen: '@/assets/actividad/imagen8.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -663,7 +663,7 @@ export default {
           id: 19,
           texto:
             '¿Cuál de los siguientes métodos de conservación utiliza un ambiente ácido para inhibir el crecimiento bacteriano?',
-          imagen: '@/assets/actividad/imagen3.png',
+          imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -696,7 +696,7 @@ export default {
           id: 20,
           texto:
             '¿Qué caracteriza al diseño higiénico de equipos y utensilios?',
-          imagen: '@/assets/actividad/imagen4.png',
+          imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
             {

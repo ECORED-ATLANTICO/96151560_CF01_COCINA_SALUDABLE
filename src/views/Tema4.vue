@@ -61,7 +61,7 @@
                 td Ej. cloro a 100 ppm o amonio cuaternario. Respetar tiempo de contacto (1-2 min).
               tr
                 td 5. Secar al aire
-                td Dejar secar naturally.
+                td Dejar secar naturalmente.
                 td No usar trapos que puedan recontaminar. Secar en escurridor limpio.
 
     .container
@@ -355,6 +355,7 @@
         figure
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/img20.svg", alt="La figura ilustra el rango de temperatura conocido como zona de peligro, entre 5 °C y 60 °C, donde los microorganismos se multiplican rápidamente. Se destacan las temperaturas seguras de refrigeración y cocción para garantizar la inocuidad alimentaria.")
           img.d-lg-none(src="@/assets/curso/tema4/img21.svg", alt="La figura ilustra el rango de temperatura conocido como zona de peligro, entre 5 °C y 60 °C, donde los microorganismos se multiplican rápidamente. Se destacan las temperaturas seguras de refrigeración y cocción para garantizar la inocuidad alimentaria.")
+          figcaption Nota. Adaptado del Codex Alimentarius (2023) y lineamientos de BPM (Resolución 2674 de 2013).
 
 
 </template>

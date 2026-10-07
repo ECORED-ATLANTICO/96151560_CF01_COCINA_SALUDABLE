@@ -29,7 +29,7 @@
           figure
             img(src="@/assets/curso/tema2/img02.png")
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0.p-3
-          p.mb-0 Para construir un plato saludable, el cocinero necesita una guía clara. No se trata de eliminar grupos alimenticios, sino de equilibrarlos. El método del "plato para comer saludable", desarrollado por la escuela de salud pública de Harvard (Harvard T.H. Chan School of Public Health, 2015), es superior a las pirámides tradicionales porque es visual y cuantitativo. Responde a la pregunta: ¿qué porcentaje de cada grupo debo poner en el plato de mi comensal? A continuación se explica los componentes del método de Harvard:
+          p.mb-0 Para construir un plato saludable, el cocinero necesita una guía clara. No se trata de eliminar grupos alimenticios, sino de equilibrarlos. El método del "plato para comer saludable", desarrollado por la escuela de salud pública de Harvard (Harvard T.H. Chan School of Public Health, 2015), es superior a las pirámides tradicionales porque es visual y cuantitativo. Responde a la pregunta: ¿qué porcentaje de cada grupo debo poner en el plato de mi comensal? A continuación se explican los componentes del método de Harvard:
   
 
     .bg-full-width.bg-fondo-07.p-5.mb-5
@@ -73,7 +73,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Criterios de calidad para frutas, verduras, proteínas y granos.
+      h2 2.2 Criterios de calidad y selección de frutas, verduras, proteínas y granos integrales.
 
     p.mb-4 Una vez entendida la proporción, el aprendiz debe desarrollar la habilidad sensorial para identificar los mejores productos. La calidad de una fruta, verdura o proteína se determina por indicadores objetivos de frescura y madurez. Ahora bien, los criterios que se deben tener en cuenta son los siguientes:
 

@@ -260,13 +260,13 @@
         ul.lista-ul.mb-0
           li.d-flex.mb-3
             i.fas.fa-circle.fa-xs.bg-color-07.me-2
-            span <b>Acero inoxidable:</b> el estándar de oro. Excelente resistencia a la corrosión no reacciona con alimentos ácidos, superficie lisa y durable. Es el material obligatorio para mezones, ollas y la mayoría de los equipos de cocina profesional.
+            span <b>Acero inoxidable:</b> el estándar de oro. Excelente resistencia a la corrosión no reacciona con alimentos ácidos, superficie lisa y durable. Es el material obligatorio para mesones, ollas y la mayoría de los equipos de cocina profesional.
           li.d-flex.mb-3
             i.fas.fa-circle.fa-xs.bg-color-07.me-2
-            span <b>Plásticos de grado alimenticio:</b> como polipropileno (PP) y polietileno de alta densidad (HDPE). Livianos, resistentes a impactos y químicos. Se usan en tablas de colores, recipientes y utensilios. Deben reemplazarse si presentan rayaduras profundas o decoloración.
+            span <b>Plásticos de grado alimentario:</b> como polipropileno (PP) y polietileno de alta densidad (HDPE). Livianos, resistentes a impactos y químicos. Se usan en tablas de colores, recipientes y utensilios. Deben reemplazarse si presentan rayaduras profundas o decoloración.
           li.d-flex.mb-0
             i.fas.fa-circle.fa-xs.bg-color-07.me-2
-            span <b>Silicón de grado alimenticio:</b> flexible, resistente a un amplio rango de temperaturas (-40°C a 230°C), no poroso y antiadherente. Ideal para moldes, espátulas y tapas reutilizables.
+            span <b>Silicón de grado alimentario:</b> flexible, resistente a un amplio rango de temperaturas (-40°C a 230°C), no poroso y antiadherente. Ideal para moldes, espátulas y tapas reutilizables.
 
       .col-lg-3.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
         figure
@@ -389,28 +389,28 @@
               h4.text-center Almacenar en lugar seguro
               p.text-center.mb-0 Los utensilios cortopunzantes (cuchillos) deben guardarse en su soporte magnético o en estuches, nunca sueltos en un cajón. Los equipos móviles deben guardarse con el cable enrollado sin nudos y lejos de fuentes de calor.
 
-    //- p.mb-4.mt-5 El uso de equipos y utensilios de cocina requiere aplicar medidas de seguridad que permitan prevenir cortes, quemaduras y otros accidentes durante la preparación de los alimentos. Reconocer los riesgos asociados con elementos cortopunzantes, superficies calientes y equipos de cocción facilita adoptar prácticas de manipulación segura. A continuación, se presentan algunas situaciones que requieren especial atención y prevención en la cocina:
+    p.mb-4.mt-5 El uso de equipos y utensilios de cocina requiere aplicar medidas de seguridad que permitan prevenir cortes, quemaduras y otros accidentes durante la preparación de los alimentos. Reconocer los riesgos asociados con elementos cortopunzantes, superficies calientes y equipos de cocción facilita adoptar prácticas de manipulación segura. A continuación, se presentan algunas situaciones que requieren especial atención y prevención en la cocina:
 
-    //- .row.justify-content-center.mb-4
-    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
-    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
-    //-       h4.mb-2.text-center Con cuchillos
-    //-       p.mb-0.text-center Nunca intentar atrapar un cuchillo que se cae. No dejar cuchillos sumergidos en agua con jabón (invisibles y peligrosos). Usar la técnica de "mano en garra" para guiar el alimento.
+    .row.justify-content-center.mb-4
+      .col-md-6.col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.bg-fondo-08.p-4.h-100.text-center
+          h4.mb-2.text-center Con cuchillos
+          p.mb-0.text-center Nunca intentar atrapar un cuchillo que se cae. No dejar cuchillos sumergidos en agua con jabón (invisibles y peligrosos). Usar la técnica de "mano en garra" para guiar el alimento.
 
-    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
-    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
-    //-       h4.mb-2.text-center Con aceite caliente (freidoras)
-    //-       p.mb-0.text-center Secar bien el alimento antes de introducirlo para evitar salpicaduras. Introducir el alimento suavemente, dejándolo caer desde la superficie. Tener una tapa y un extintor clase K cerca.
+      .col-md-6.col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.bg-fondo-08.p-4.h-100.text-center
+          h4.mb-2.text-center Con aceite caliente (freidoras)
+          p.mb-0.text-center Secar bien el alimento antes de introducirlo para evitar salpicaduras. Introducir el alimento suavemente, dejándolo caer desde la superficie. Tener una tapa y un extintor clase K cerca.
 
-    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
-    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
-    //-       h4.mb-2.text-center Con superficies calientes (hornos, planchas)
-    //-       p.mb-0.text-center Usar siempre paños secos o guantes térmicos. Un paño húmedo conduce el calor y puede causar una quemadura por vapor. Establecer señalización de "superficie caliente".
+      .col-md-6.col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.bg-fondo-08.p-4.h-100.text-center
+          h4.mb-2.text-center Con superficies calientes (hornos, planchas)
+          p.mb-0.text-center Usar siempre paños secos o guantes térmicos. Un paño húmedo conduce el calor y puede causar una quemadura por vapor. Establecer señalización de "superficie caliente".
 
-    //-   .col-md-6.col-lg-3.mb-4.mb-lg-0
-    //-     .tarjeta.bg-fondo-08.p-4.h-100.text-center
-    //-       h4.mb-2.text-center Con partes móviles (batidoras, procesadores)
-    //-       p.mb-0.text-center Nunca introducir las manos, cucharas o espátulas mientras el equipo está en movimiento. Esperar siempre a que se detenga por completo. Usar las baquetas o impulsores adecuados.
+      .col-md-6.col-lg-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.bg-fondo-08.p-4.h-100.text-center
+          h4.mb-2.text-center Con partes móviles (batidoras, procesadores)
+          p.mb-0.text-center Nunca introducir las manos, cucharas o espátulas mientras el equipo está en movimiento. Esperar siempre a que se detenga por completo. Usar las baquetas o impulsores adecuados.
 
 </template>
 

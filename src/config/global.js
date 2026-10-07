@@ -44,7 +44,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Normativo sanitario en Colombia',
+            titulo: 'Marco normativo sanitario en Colombia',
             hash: 't_1_4',
           },
         ],
@@ -53,18 +53,19 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          'Identificación y Selección de materias primas para una cocina saludable',
+          'Identificación y selección de materias primas para una cocina saludable',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Clasificación de alimentos: método del plato de Harvard',
+            titulo:
+              'Clasificación de alimentos para una dieta saludable: método del plato de Harvard',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
             titulo:
-              'Criterios de calidad para frutas, verduras, proteínas y granos',
+              'Criterios de calidad y selección de frutas, verduras, proteínas y granos integrales',
             hash: 't_2_2',
           },
           {
@@ -128,7 +129,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Técnicas de corte en la cocina',
+            titulo: 'Técnicas básicas de corte en la cocina',
             hash: 't_4_2',
           },
           {
@@ -170,7 +171,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/96151560_CF01_DU.pdf',
+        download: 'downloads/96151560_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -301,7 +302,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -320,7 +321,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -330,8 +331,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -356,21 +357,21 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

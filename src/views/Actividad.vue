@@ -288,19 +288,19 @@ export default {
             {
               id: 'a',
               texto:
-                'El rango de temperatura entre 5°C y 60°C donde las bacterias patógenas se multiplican rápidamente.',
+                'El rango de temperatura entre 5 °C y 60 °C donde las bacterias patógenas se multiplican rápidamente.',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'El rango de temperatura entre 0°C y 5°C donde los alimentos se congelan.',
+                'El rango de temperatura entre 0 °C y 5 °C donde los alimentos se congelan.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La temperatura superior a 100°C donde los alimentos se queman.',
+                'La temperatura superior a 100 °C donde los alimentos se queman.',
               esCorrecta: false,
             },
             {
@@ -311,7 +311,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'En la zona de peligro (5°C - 60°C), las bacterias pueden duplicarse cada 20 minutos. Por eso, los alimentos no deben permanecer en esta zona por más de 2 horas acumulativas.',
+            'En la zona de peligro (5 °C - 60 °C), las bacterias pueden duplicarse cada 20 minutos. Por eso, los alimentos no deben permanecer en esta zona por más de 2 horas acumulativas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -355,7 +355,7 @@ export default {
         {
           id: 10,
           texto:
-            '¿Cuál es la función principal de un abatidor de temperatura (blast chiller) en una cocina profesional?',
+            '¿Cuál es la función principal de un abatidor de temperatura (<em>blast chiller</em>) en una cocina profesional?',
           imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
@@ -380,26 +380,26 @@ export default {
             {
               id: 'd',
               texto:
-                'Mantener los alimentos a una temperatura constante de 70°C.',
+                'Mantener los alimentos a una temperatura constante de 70 °C.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'El abatidor de temperatura es crucial para enfriar alimentos de 70°C a 3°C en menos de 90 minutos, saltándose la zona de peligro.',
+            'El abatidor de temperatura es crucial para enfriar alimentos de 70 °C a 3 °C en menos de 90 minutos, saltándose la zona de peligro.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
           texto:
-            '¿Qué caracteriza al método de cocción llamado "escalfado" (poaching)?',
+            '¿Qué caracteriza al método de cocción llamado "escalfado" (<em>poaching</em>)?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Se realiza a altas temperaturas (superiores a 100°C) con abundante aceite.',
+                'Se realiza a altas temperaturas (superiores a 100 °C) con abundante aceite.',
               esCorrecta: false,
             },
             {
@@ -417,7 +417,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Se realiza a baja temperatura (70°C - 80°C) en un líquido como agua, caldo o leche, sin llegar a hervir.',
+                'Se realiza a baja temperatura (70 °C - 80 °C) en un líquido como agua, caldo o leche, sin llegar a hervir.',
               esCorrecta: true,
             },
           ],
@@ -468,22 +468,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Cuchillo Chef (de cocina).',
+              texto: 'Cuchillo chef (de cocina).',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Cuchillo de Puntilla (o de pelar).',
+              texto: 'Cuchillo de puntilla (o de pelar).',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Cuchillo de Sierra (de pan).',
+              texto: 'Cuchillo de sierra (de pan).',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Cuchillo Fileteador.',
+              texto: 'Cuchillo fileteador.',
               esCorrecta: false,
             },
           ],
@@ -555,7 +555,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El pollo debe cocinarse a una temperatura interna de 74°C para asegurar la eliminación de patógenos como la Salmonella.',
+            'El pollo debe cocinarse a una temperatura interna de 74 °C para asegurar la eliminación de patógenos como la <em>Salmonella</em>.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -567,7 +567,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Bacteria Salmonella en un huevo crudo.',
+              texto: 'Bacteria <em>Salmonella</em> en un huevo crudo.',
               esCorrecta: false,
             },
             {
@@ -640,7 +640,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Brunoise.',
+              texto: '<em>Brunoise</em>.',
               esCorrecta: false,
             },
             {
@@ -650,7 +650,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Chiffonade.',
+              texto: '<em>Chiffonade</em>.',
               esCorrecta: false,
             },
           ],

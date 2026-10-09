@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Fundamentos de la cocina saludable y marco normativo.
+      h1 Fundamentos de la cocina saludable y marco normativo
 
     .bloque-texto-g.bg-color-02.p-4.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -19,7 +19,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Definición, evolución y principios de la cocina saludable.
+      h2 1.1 Definición, evolución y principios de la cocina saludable
 
     .row.mb-5.mb-lg-5.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
@@ -78,7 +78,7 @@
     separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2 Inocuidad alimentaria y salud pública.
+      h2 1.2 Inocuidad alimentaria y salud pública
 
 
     .container
@@ -91,7 +91,7 @@
 
     p.mb-2 La falta de inocuidad se manifiesta a través de las Enfermedades Transmitidas por Alimentos (ETA). Estas enfermedades, que pueden ir desde una simple molestia gastrointestinal hasta cuadros graves que requieren hospitalización o incluso la muerte, son un problema de salud pública a nivel mundial. La OMS estima que cada año, una de cada diez personas enfermas por consumir alimentos contaminados. 
 
-    p.mb-5 En Colombia, el Instituto Nacional de Salud (INS) realiza una vigilancia constante, reportando brotes de ETA asociados a lugares tan diversos como restaurantes escolares, comedores  comunitarios y servicios de catering, lo que demuestra que el riesgo está presente en todo tipo de establecimientos. Entre los agentes causales de ETA, tenemos: 
+    p.mb-5 En Colombia, el Instituto Nacional de Salud (INS) realiza una vigilancia constante, reportando brotes de ETA asociados a lugares tan diversos como restaurantes escolares, comedores comunitarios y servicios de <em>catering</em>, lo que demuestra que el riesgo está presente en todo tipo de establecimientos. Entre los agentes causales de ETA, tenemos: 
 
 
     .row.justify-content-center.mb-3
@@ -125,7 +125,7 @@
     separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.3 Las buenas prácticas de manufactura (BPM): concepto, objetivos y pilares.
+      h2 1.3 Las buenas prácticas de manufactura (BPM): concepto, objetivos y pilares
 
     .row.mb-4.mb-lg-5.justify-content-center.align-items-center
       .col-lg-4.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
@@ -179,7 +179,7 @@
                 .col-8
                   img(src='@/assets/curso/tema1/img16.svg' alt='', style="width: 90px; height: 90px; ").mx-auto
               h4.text-center Higiene en los procesos
-              p.text-center.mb-0 Recepción con control de temperatura, almacenamiento PEPS, separación física de crudos y cocidos, cocción a temperaturas seguras (pollo a 74°C), enfriamiento rápido para evitar zona de peligro (5°C-60°C).
+              p.text-center.mb-0 Recepción con control de temperatura, almacenamiento PEPS, separación física de crudos y cocidos, cocción a temperaturas seguras (pollo a 74 °C), enfriamiento rápido para evitar zona de peligro (5 °C - 60 °C).
 
    
     .row.justify-content-center.mb-4
@@ -232,7 +232,7 @@
     separador
     
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.4 Marco normativo sanitario en Colombia.
+      h2 1.4 Marco normativo sanitario en Colombia
 
     
     .bg-full-width.bg-fondo-04.px-5.py-4.px-lg-5
@@ -254,8 +254,8 @@
               tr
                 th Norma
                 th Año
-                th Descripción y Aportes
-                th Aplicación Práctica en la Cocina
+                th Descripción y aportes
+                th Aplicación práctica en la cocina
             tbody
               tr
                 td Ley 9 de 1979 (Código Sanitario Nacional)

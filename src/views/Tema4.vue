@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Técnicas básicas para la preparación de alimentos saludables. 
+      h1 Técnicas básicas para la preparación de alimentos saludables
 
   
     .bloque-texto-g.bg-color-04.p-4.p-sm-4.p-md-5.mb-5
@@ -18,7 +18,7 @@
     separador
     
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1 Protocolos de higiene y desinfección en BPM 
+      h2 4.1 Protocolos de higiene y desinfección en BPM
   
   
     
@@ -36,7 +36,6 @@
           span Protocolo para limpieza y desinfección de superficies y utensilios (tren de lavado de 5 pasos)
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. Adaptado de los lineamientos del SENA (2026).
             thead
               tr
                 th Paso
@@ -46,17 +45,17 @@
               tr
                 td 1. Raspar y enjuagar
                 td Retirar restos grandes de comida.
-                td Usar una espátula o rasquet. Enjuagar con agua tibia.
+                td Usar una espátula o rasqueta. Enjuagar con agua tibia.
               tr
                 td 2. Lavar
                 td Aplicar detergente y fregar.
-                td Usar agua caliente (43°C - 49°C) y un cepillo o esponja designada.
+                td Usar agua caliente (43 °C - 49 °C) y un cepillo o esponja designada.
               tr
                 td 3. Enjuagar
                 td Remover residuos de detergente.
                 td Con agua tibia limpia, asegurando que no quede jabón.
               tr
-                td 4. Sanitizar (Desinfectar)
+                td 4. Sanitizar (desinfectar)
                 td Aplicar solución desinfectante aprobada.
                 td Ej. cloro a 100 ppm o amonio cuaternario. Respetar tiempo de contacto (1-2 min).
               tr
@@ -114,31 +113,31 @@
       .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-4.mb-xl-0
         .tarjeta.bg-color-06.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img05.png', alt='Raspar y enjuagar')
-          h4.mb-3.text-center Raspar y enjuagar.
+          h4.mb-3.text-center Raspar y enjuagar
           p.mb-0.text-center Eliminar sólidos.
 
       .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-4.mb-xl-0
         .tarjeta.bg-color-08.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img06.png', alt='Lavar')
-          h4.mb-3.text-center Lavar.
+          h4.mb-3.text-center Lavar
           p.mb-0.text-center Detergente + agua caliente (+ acción mecánica).
 
       .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-4.mb-xl-0
         .tarjeta.bg-color-12.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img07.png', alt='Enjuagar')
-          h4.mb-3.text-center Enjuagar.
+          h4.mb-3.text-center Enjuagar
           p.mb-0.text-center Remover detergente.
 
       .col-md-6.col-lg-4.col-xl.mb-4.mb-lg-0.mb-xl-0
         .tarjeta.bg-color-10.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img08.png', alt='Sanitizar')
-          h4.mb-3.text-center Sanitizar.
+          h4.mb-3.text-center Sanitizar
           p.mb-0.text-center Agente químico (cloro, amonio cuaternario). Respetar tiempo de contacto.
 
       .col-md-6.col-lg-4.col-xl.mb-0.mb-lg-0
         .tarjeta.bg-color-03.p-4.h-100.text-center
           img.img-85.mb-4.mx-auto(src='@/assets/curso/tema4/img09.png', alt='Secar al aire')
-          h4.mb-3.text-center Secar al aire.
+          h4.mb-3.text-center Secar al aire
           p.mb-0.text-center Evitar recontaminación.
 
 
@@ -146,7 +145,7 @@
     separador
     
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.2 Técnicas básicas de corte en la cocina.
+      h2 4.2 Técnicas básicas de corte en la cocina
 
     .row.mb-5.mb-lg-5.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
@@ -178,7 +177,7 @@
               figure
                 img(src="@/assets/curso/tema4/img12.png", alt="Corte Brunoise", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-2 Brunoise
+              h4.mb-2 <em>Brunoise</em>
               p.mb-2 Corte en cubos muy pequeños y uniformes, obtenido generalmente después de realizar una juliana. Se utiliza frecuentemente en cebolla, zanahoria y pimentón para elaborar sofritos, salsas, rellenos, vinagretas, sopas y diferentes guarniciones.
               p.mb-0 <b>Dimensiones:</b> 2-3 mm x 2-3 mm.
 
@@ -198,7 +197,7 @@
               figure
                 img(src="@/assets/curso/tema4/img14.png", alt="Corte Chiffonade", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-2 Chiffonade
+              h4.mb-2 <em>Chiffonade</em>
               p.mb-2 Corte aplicado principalmente a vegetales de hoja y hierbas frescas, que consiste en enrollarlos y cortarlos transversalmente en tiras finas. Se utiliza frecuentemente en lechugas, espinaca, y otras hojas para ensaladas, sopas y decoraciones.
               p.mb-0 <b>Dimensiones:</b> tiras finas de ancho variable.
 
@@ -209,7 +208,7 @@
                 img(src="@/assets/curso/tema4/img15.png", alt="Corte Macedonia", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-2 Macedonia
-              p.mb-2 Corte en cubos pequeños y uniformes, de mayor tamaño que la brunoise, que facilita combinar diferentes ingredientes. Se utiliza frecuentemente en frutas y verduras para ensaladas, guarniciones, preparaciones frías, postres y mezclas variadas.
+              p.mb-2 Corte en cubos pequeños y uniformes, de mayor tamaño que la <em>brunoise</em>, que facilita combinar diferentes ingredientes. Se utiliza frecuentemente en frutas y verduras para ensaladas, guarniciones, preparaciones frías, postres y mezclas variadas.
               p.mb-0 <b>Dimensiones:</b> 5-8 mm x 5-8 mm.
 
         .tarjeta.p-4.h-100
@@ -218,7 +217,7 @@
               figure
                 img(src="@/assets/curso/tema4/img16.png", alt="Corte Rodajas o rondelle", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
-              h4.mb-2 Rodajas o rondelle
+              h4.mb-2 Rodajas o <em>rondelle</em>
               p.mb-2 Corte transversal que produce piezas circulares u ovaladas de grosor uniforme, especialmente en alimentos de forma cilíndrica. Se utiliza frecuentemente en zanahorias, pepinos, calabacines y frutas para ensaladas, guarniciones, salteados, horneados y decoraciones.
               p.mb-0 <b>Dimensiones:</b> 2-5 mm de grosor.
 
@@ -247,7 +246,6 @@
           span Métodos de cocción
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. Adaptado de los lineamientos del SENA (2026).
             thead
               tr
                 th Método
@@ -258,33 +256,33 @@
             tbody
               tr
                 td <b>Vapor</b>
-                td 95°C – 100°C
+                td 95 °C – 100 °C
                 td Convección húmeda
                 td Preserva vitaminas hidrosolubles (C, B). No requiere grasas. Mantiene color y textura.
                 td Brócoli, zanahoria, pescado blanco, arroz.
               tr
                 td <b>Plancha / parrilla</b>
-                td 180°C - 230°C
+                td 180 °C - 230 °C
                 td Conducción seca
                 td Drena grasas. Produce reacción de Maillard (sabor) sin aceites pesados.
                 td Carnes magras, pescados, verduras en láminas.
               tr
                 td <b>Horneado</b>
-                td 150°C - 250°C
+                td 150 °C - 250 °C
                 td Convección seca
                 td Cocción uniforme. No requiere grasas añadidas si se usa papel vegetal.
-                td Vegetales asados, pescados en papillote, pechugas.
+                td Vegetales asados, pescados en <em>papillote</em>, pechugas.
               tr
                 td <b>Escalfado</b>
-                td 70°C - 80°C
+                td 70 °C - 80 °C
                 td Convección húmeda
                 td Técnica más delicada. No usa grasas. Preserva textura y nutrientes de alimentos frágiles.
                 td Huevos, pescados blancos, frutas (peras, duraznos).
               tr
                 td <b>Salteado saludable</b>
-                td 180°C - 220°C
+                td 180 °C - 220 °C
                 td Conducción (con mínima grasa)
-                td Cocción ultrarrápida (2-4 min). Preserva el "crunch" de las verduras. Usa solo 1 cucharadita de aceite.
+                td Cocción ultrarrápida (2-4 min). Preserva el "<em>crunch</em>" de las verduras. Usa solo 1 cucharadita de aceite.
                 td Tiras de pollo, tofu, brócoli, pimentón, zanahoria.
 
     separador
@@ -306,29 +304,28 @@
           span Métodos de conservación en cocina saludable
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. Adaptado de los lineamientos del SENA (2026).
             thead
               tr
                 th Método
                 th Temperatura / Condición
                 th Fundamento
-                th Recomendaciones para Cocina Saludable
+                th Recomendaciones para cocina saludable
             tbody
               tr
                 td <b>Refrigeración</b>
-                td 0°C a 4°C
+                td 0 °C a 4 °C
                 td Ralentiza drásticamente el metabolismo bacteriano, pero no lo detiene.
                 td Almacenar alimentos cocinados en los estantes superiores y crudos en los inferiores. Usar recipientes herméticos.
               tr
                 td <b>Congelación</b>
-                td -18°C o menos
+                td -18 °C o menos
                 td Detiene completamente el crecimiento bacteriano. El agua al congelarse forma cristales que pueden dañar la estructura celular del alimento.
                 td Congelar porciones individuales o envasar al vacío. Escaldar (blanquear) verduras antes de congelar para inactivar enzimas que causan pérdida de calidad.
               tr
                 td <b>Enfriado rápido (regla 2-4)</b>
-                td 60°C → 21°C en &lt; 2h → 4°C en &lt; 4h
+                td 60 °C → 21 °C en &lt; 2h → 4 °C en &lt; 4h
                 td Es el método para sacar los alimentos calientes de la zona de peligro lo más rápido posible.
-                td Dividir grandes volúmenes en porciones pequeñas y poco profundas, usar baño de agua con hielo (o blast chiller) y agitar para acelerar la pérdida de calor.
+                td Dividir grandes volúmenes en porciones pequeñas y poco profundas, usar baño de agua con hielo (o <em>blast chiller</em>) y agitar para acelerar la pérdida de calor.
               tr
                 td <b>Encurtido</b>
                 td Ambiente (ácido)
@@ -345,17 +342,17 @@
         .col-lg-auto
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/img19.svg", style="max-width: 90px").mx-auto
         .col-lg
-          p.mb-0 El principio más importante para entender es el de la zona de peligro de temperaturas, que oscila entre los 5°C y los 60°C. En este rango, las bacterias patógenas se multiplican a una velocidad exponencial (pueden duplicar su población cada 20 minutos). Por lo tanto, los alimentos perecederos no deben permanecer en esta zona por más de 2 horas acumulativas en toda su vida útil (desde la recepción hasta el servicio).
+          p.mb-0 El principio más importante para entender es el de la zona de peligro de temperaturas, que oscila entre los 5 °C y los 60 °C. En este rango, las bacterias patógenas se multiplican a una velocidad exponencial (pueden duplicar su población cada 20 minutos). Por lo tanto, los alimentos perecederos no deben permanecer en esta zona por más de 2 horas acumulativas en toda su vida útil (desde la recepción hasta el servicio).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
           h5.text-bold.mb-0 Figura 3.
-          span Zona de peligro (5°C - 60°C)
+          span Zona de peligro (5 °C - 60 °C)
         figure
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/img20.svg", alt="La figura ilustra el rango de temperatura conocido como zona de peligro, entre 5 °C y 60 °C, donde los microorganismos se multiplican rápidamente. Se destacan las temperaturas seguras de refrigeración y cocción para garantizar la inocuidad alimentaria.")
           img.d-lg-none(src="@/assets/curso/tema4/img21.svg", alt="La figura ilustra el rango de temperatura conocido como zona de peligro, entre 5 °C y 60 °C, donde los microorganismos se multiplican rápidamente. Se destacan las temperaturas seguras de refrigeración y cocción para garantizar la inocuidad alimentaria.")
-          figcaption Nota. Adaptado del Codex Alimentarius (2023) y lineamientos de BPM (Resolución 2674 de 2013).
+          figcaption Nota. Adaptado del <em>Codex Alimentarius</em> (2023) y lineamientos de BPM (Resolución 2674 de 2013).
 
 
 </template>

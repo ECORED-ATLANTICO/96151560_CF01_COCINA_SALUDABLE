@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Identificación y selección de materias primas para una cocina saludable.
+      h1 Identificación y selección de materias primas para una cocina saludable
 
 
     .row.mb-4.justify-content-center.align-items-center
@@ -19,7 +19,7 @@
     separador
     
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.1 Clasificación de alimentos para una dieta saludable: método del plato de Harvard.
+      h2 2.1 Clasificación de alimentos para una dieta saludable: método del plato de Harvard
 
 
       
@@ -29,7 +29,7 @@
           figure
             img(src="@/assets/curso/tema2/img02.png")
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0.p-3
-          p.mb-0 Para construir un plato saludable, el cocinero necesita una guía clara. No se trata de eliminar grupos alimenticios, sino de equilibrarlos. El método del "plato para comer saludable", desarrollado por la escuela de salud pública de Harvard (Harvard T.H. Chan School of Public Health, 2015), es superior a las pirámides tradicionales porque es visual y cuantitativo. Responde a la pregunta: ¿qué porcentaje de cada grupo debo poner en el plato de mi comensal? A continuación se explican los componentes del método de Harvard:
+          p.mb-0 Para construir un plato saludable, el cocinero necesita una guía clara. No se trata de eliminar grupos alimenticios, sino de equilibrarlos. El método del "plato para comer saludable", desarrollado por la escuela de salud pública de Harvard (Harvard T.H. Chan School of Public Health, 2015), es superior a las pirámides tradicionales porque es visual y cuantitativo. Responde a la pregunta: ¿qué porcentaje de cada grupo debo poner en el plato de mi comensal? A continuación, se explican los componentes del método de Harvard:
   
 
     .bg-full-width.bg-fondo-07.p-5.mb-5
@@ -41,7 +41,7 @@
                 img(src="@/assets/curso/tema2/img04.png", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               p.mb-2.fw-bold Verduras y frutas (½ del plato)
-              p.mb-0 Deben ocupar la mitad del plato. La recomendación es priorizar las verduras de hoja verde (espinaca, acelga, kale, lechuga) y las verduras coloridas (zanahoria, pimentón, brócoli, coliflor, tomate, berenjena). Las frutas enteras son una excelente opción, pero los jugos (incluso naturales) deben limitarse, ya que concentran azúcares y eliminan la fibra.
+              p.mb-0 Deben ocupar la mitad del plato. La recomendación es priorizar las verduras de hoja verde (espinaca, acelga, <em>kale</em>, lechuga) y las verduras coloridas (zanahoria, pimentón, brócoli, coliflor, tomate, berenjena). Las frutas enteras son una excelente opción, pero los jugos (incluso naturales) deben limitarse, ya que concentran azúcares y eliminan la fibra.
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0.justify-content-center
@@ -73,7 +73,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Criterios de calidad y selección de frutas, verduras, proteínas y granos integrales.
+      h2 2.2 Criterios de calidad y selección de frutas, verduras, proteínas y granos integrales
 
     p.mb-4 Una vez entendida la proporción, el aprendiz debe desarrollar la habilidad sensorial para identificar los mejores productos. La calidad de una fruta, verdura o proteína se determina por indicadores objetivos de frescura y madurez. Ahora bien, los criterios que se deben tener en cuenta son los siguientes:
 
@@ -118,7 +118,7 @@
                     p.mb-0 <b>Textura:</b> la carne debe ser firme y elástica; al presionar con un dedo, debe recuperar su forma.
                   li.d-flex.mb-0
                     i
-                    p.mb-0 <b>Cadena de frío:</b> el pescado debe entregarse a una temperatura de 0°C a 4°C.
+                    p.mb-0 <b>Cadena de frío:</b> el pescado debe entregarse a una temperatura de 0 °C a 4 °C.
 
           div(titulo="Carnes magras (pollo, res magra)")
             .row.align-items-center.justify-content-center
@@ -149,12 +149,12 @@
                     p.mb-0 <b>Envase:</b> los envases de vidrio o plástico deben estar limpios, secos y sellados. Revisar que no haya humedad interna.
                   li.d-flex.mb-0
                     i
-                    p.mb-0 <b>Preparación:</b> siempre se deben enjuagar bajo agua corriente las legumbres enlatadas para reducir su contenido de sodio hasta en un 40%.
+                    p.mb-0 <b>Preparación:</b> siempre se deben enjuagar bajo agua corriente las legumbres enlatadas para reducir su contenido de sodio hasta en un 40 %.
 
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.3 La receta estándar: control de calidad y costos.
+      h2 2.3 La receta estándar: control de calidad y costos
 
     
     .bloque-texto-g.bg-color-02.p-4.p-sm-4.p-md-5.mb-5
@@ -171,7 +171,6 @@
           span Componentes de la receta estándar
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. Adaptado de los lineamientos del SENA (2026).
             thead
               tr
                 th Identificación
@@ -181,7 +180,7 @@
                 td Nombre del plato
                 td Este debe ser único e identificable.
               tr
-                td Rendimiento (Número de porciones)
+                td Rendimiento (número de porciones)
                 td Para qué cantidad de comensales está diseñada la receta.
               tr
                 td Tamaño de la porción
@@ -193,7 +192,7 @@
                 td Equipos y utensilios necesarios
                 td Para asegurar que el personal tenga todo lo que necesita.
               tr
-                td Procedimiento paso a paso (Mise en place y cocción)
+                td Procedimiento paso a paso (<em>Mise en place</em> y cocción)
                 td Una secuencia lógica y detallada de acciones. Debe incluir variables de proceso como temperaturas y tiempos de cocción.
               tr
                 td Información nutricional
@@ -202,7 +201,7 @@
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 Almacenamiento y rotación de inventarios: método PEPS.
+      h2 2.4 Almacenamiento y rotación de inventarios: método PEPS
 
     p.mb-4 Una vez seleccionada y recibida la materia prima de calidad, el siguiente paso crítico es su correcto almacenamiento para preservar esa calidad y garantizar su inocuidad. El principio fundamental es evitar que los productos más antiguos se queden rezagados y se deterioren. Para esto se utiliza el método PEPS, acrónimo de "Primero en Entrar, Primero en Salir".
 
@@ -212,7 +211,7 @@
           .col-lg-auto
             img.d-none.d-lg-flex(src="@/assets/curso/tema2/img10.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 El método PEPS (o FIFO por sus siglas en inglés, First in, first out) es un sistema de rotación de inventarios que asegura que los productos con la fecha de vencimiento o de ingreso más cercana se utilicen antes que los recién llegados. Su aplicación práctica implica:
+            p.mb-0 El método PEPS (o FIFO por sus siglas en inglés, <em>First in, first out</em>) es un sistema de rotación de inventarios que asegura que los productos con la fecha de vencimiento o de ingreso más cercana se utilicen antes que los recién llegados. Su aplicación práctica implica:
             
 
     .row.justify-content-center.mb-5
@@ -242,7 +241,7 @@
 
 
 
-    p.mb-4 Además del PEPS, se deben respetar las condiciones de almacenamiento definidas por el fabricante o la normativa: los productos secos (granos, legumbres, harinas) deben ir en un lugar fresco, seco y oscuro; los perecederos (lácteos, carnes, vegetales) a temperaturas de refrigeración (0°C a 4°C) y los congelados a -18°C o menos.
+    p.mb-4 Además del PEPS, se deben respetar las condiciones de almacenamiento definidas por el fabricante o la normativa: los productos secos (granos, legumbres, harinas) deben ir en un lugar fresco, seco y oscuro; los perecederos (lácteos, carnes, vegetales) a temperaturas de refrigeración (0 °C a 4 °C) y los congelados a -18 °C o menos.
 
 
     .bg-full-width.bg-fondo-05.px-5.py-4.px-lg-5.mb-4
@@ -256,7 +255,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img14.svg' alt='', style="width: 90px; height: 90px; ").mx-auto
-              h4.text-center Recepción y Etiquetado
+              h4.text-center Recepción y etiquetado
               p.text-center.mb-0 Al recibir un producto, se etiqueta con la fecha de ingreso.
 
             .tarjeta.tarjeta--blanca.shadow-sm.bg-color-8.p-4.h-100
@@ -270,8 +269,8 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img16.svg' alt='', style="width: 90px; height: 90px; ").mx-auto
-              h4.text-center Uso para Preparación
-              p.text-center.mb-0 El personal de cocina debe tomar siempre los productos de la parte delantera o superior. Esto asegura que los productos más antiguos se usen primero, evitando su vencimiento y el desperdicio de alimentos (food waste).
+              h4.text-center Uso para preparación
+              p.text-center.mb-0 El personal de cocina debe tomar siempre los productos de la parte delantera o superior. Esto asegura que los productos más antiguos se usen primero, evitando su vencimiento y el desperdicio de alimentos (<em>food waste</em>).
 
 
 

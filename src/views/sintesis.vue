@@ -20,7 +20,7 @@
           figure
             img(src="@/assets/curso/intro/img2.png")
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0.p-4
-          p.mb-0.ms-0.ms-lg-3 Finalmente, se desarrollaron las técnicas básicas de preparación: protocolos de higiene y desinfección (tren de lavado de 5 pasos, desinfección de vegetales), técnicas de corte profesional (juliana, brunoise), métodos de cocción que preservan nutrientes (vapor, plancha, horneado, escalfado, salteado saludable) y principios de conservación (refrigeración, congelación, regla 2-4, zona de peligro 5°C-60°C). La integración de estos conocimientos permite al aprendiz garantizar la inocuidad y el valor nutricional como pilares de la gastronomía saludable.
+          p.mb-0.ms-0.ms-lg-3 Finalmente, se desarrollaron las técnicas básicas de preparación: protocolos de higiene y desinfección (tren de lavado de 5 pasos, desinfección de vegetales), técnicas de corte profesional (<em>juliana</em>, <em>brunoise</em>), métodos de cocción que preservan nutrientes (vapor, plancha, horneado, escalfado, salteado saludable) y principios de conservación (refrigeración, congelación, regla 2-4, zona de peligro 5 °C - 60 °C). La integración de estos conocimientos permite al aprendiz garantizar la inocuidad y el valor nutricional como pilares de la gastronomía saludable.
 
   
     .row.justify-content-center

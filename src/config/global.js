@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Fundamentos de la cocina saludable: insumos, equipos y técnicas esenciales.',
+    Name: 'Fundamentos de la cocina saludable: insumos, equipos y técnicas esenciales',
     Description:
       'Este componente formativo fundamenta la cocina saludable en BPM y normatividad colombiana. Aborda la selección de materias primas de alta calidad, el manejo seguro de equipos y utensilios, y la aplicación de técnicas de corte, cocción y conservación que preservan las propiedades organolépticas y nutricionales de los alimentos.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
@@ -94,7 +94,7 @@ export default {
           {
             numero: '3.2',
             titulo:
-              'Equipos clave para cocina saludable (vaporeras, air fryer, procesador)',
+              'Equipos clave para cocina saludable (vaporeras, <em>air fryer</em>, procesador)',
             hash: 't_3_2',
           },
           {
@@ -187,9 +187,9 @@ export default {
   },
   glosario: [
     {
-      termino: 'Abatidor de temperatura (Blast Chiller)',
+      termino: 'Abatidor de temperatura (<em>blast chiller</em>)',
       significado:
-        'Equipo de refrigeración de alta potencia diseñado para enfriar rápidamente alimentos calientes, pasando de 70°c a 3°c en menos de 90 minutos, evitando la zona de peligro.',
+        'Equipo de refrigeración de alta potencia diseñado para enfriar rápidamente alimentos calientes, pasando de 70 °C a 3 °C en menos de 90 minutos, evitando la zona de peligro.',
     },
     {
       termino: 'BPM (Buenas Prácticas de Manufactura)',
@@ -212,14 +212,14 @@ export default {
         'Enfermedad causada por el consumo de alimentos o agua contaminados con agentes biológicos (bacterias, virus, parásitos), químicos o físicos.',
     },
     {
-      termino: 'Freidora de aire (Air fryer)',
+      termino: 'Freidora de aire (<em>Air fryer</em>)',
       significado:
         'Electrodoméstico que cocina mediante la circulación de aire a alta velocidad, produciendo una textura crujiente similar a la fritura con una cantidad mínima de aceite.',
     },
     {
       termino: 'Inocuidad alimentaria',
       significado:
-        'Garantía de que un alimento no causará daño al consumidor cuando se prepare y consuma según el uso al que se destina. Es el objetivo principal de las bpm.',
+        'Garantía de que un alimento no causará daño al consumidor cuando se prepare y consuma según el uso al que se destina. Es el objetivo principal de las BPM.',
     },
     {
       termino: 'INVIMA',
@@ -244,7 +244,7 @@ export default {
     {
       termino: 'Zona de peligro',
       significado:
-        'Rango de temperatura entre 5°c y 60°c donde las bacterias patógenas se multiplican a un ritmo acelerado (duplicándose cada 20 minutos).',
+        'Rango de temperatura entre 5 °C y 60 °C donde las bacterias patógenas se multiplican a un ritmo acelerado (duplicándose cada 20 minutos).',
     },
   ],
   referencias: [
@@ -259,7 +259,7 @@ export default {
     },
     {
       referencia:
-        'Codex Alimentarius Commission. (2023). <em>Principios generales de higiene de los alimentos (CXC 1-1969)</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
+        '<em>Codex Alimentarius</em> Commission. (2023). <em>Principios generales de higiene de los alimentos (CXC 1-1969)</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
       link: 'https://www.fao.org/fao-who-codexalimentarius',
     },
     {
@@ -302,7 +302,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

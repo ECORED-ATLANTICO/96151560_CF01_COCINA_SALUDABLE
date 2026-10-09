@@ -31,7 +31,7 @@
             .col-lg-auto
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/img02.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 <b>Equipo mayor</b>: son aquellos de gran tamaño, generalmente fijos o semi-fijos, que requieren instalación especial (eléctrica, a gas, ventilación o sistemas de drenaje). Constituyen la columna vertebral de la producción y su ubicación define el flujo de trabajo. Ejemplos: cocinas industriales (hornillas), hornos (combi, convección, rotativos), campanas extractoras, refrigeradores y congeladores industriales, lavavajillas, freidoras, marmitas, abatidores de temperatura (blast chiller). Su selección depende del volumen y tipo de producción del establecimiento.
+              p.mb-0 <b>Equipo mayor</b>: son aquellos de gran tamaño, generalmente fijos o semi-fijos, que requieren instalación especial (eléctrica, a gas, ventilación o sistemas de drenaje). Constituyen la columna vertebral de la producción y su ubicación define el flujo de trabajo. Ejemplos: cocinas industriales (hornillas), hornos (combi, convección, rotativos), campanas extractoras, refrigeradores y congeladores industriales, lavavajillas, freidoras, marmitas, abatidores de temperatura (<em>blast chiller</em>). Su selección depende del volumen y tipo de producción del establecimiento.
     
       .col-lg-6.mb-0.mb-lg-0
         .bg-fondo-01.p-4.br-15.mb-0.h-100.align-content-center
@@ -58,15 +58,15 @@
             p.mb-0 Permite una cocción rápida a altas temperaturas con muy poca grasa. El exceso de grasa de las carnes se drena. La plancha, con su superficie lisa, es ideal para salteados de verduras, huevos, pescados delicados, y para crear las reacciones de Maillard que aportan sabor sin necesidad de aceites pesados.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Equipos de refrigeración y congelación").align-content-center
-            p.mb-0 Son el corazón de la conservación. Las neveras industriales deben mantener una temperatura estable entre 0°C y 4°C. Los congeladores, a -18°C o menos. Una correcta organización interna, con separación de alimentos y registro diario de temperaturas, es fundamental para evitar la zona de peligro y la contaminación cruzada.
+            p.mb-0 Son el corazón de la conservación. Las neveras industriales deben mantener una temperatura estable entre 0 °C y 4 °C. Los congeladores, a -18 °C o menos. Una correcta organización interna, con separación de alimentos y registro diario de temperaturas, es fundamental para evitar la zona de peligro y la contaminación cruzada.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Abatidor de temperatura (Blast Chiller)").align-content-center
-            p.mb-0 Es un equipo de alta tecnología crucial para la seguridad alimentaria en cocinas de volumen. Su función es enfriar alimentos calientes (sopas, guisos, carnes cocidas) de 70°C a 3°C en menos de 90 minutos, "saltándose" la zona de peligro donde las bacterias se multiplican. Previene la proliferación de <em>Bacillus cereus</em> y <em>Clostridium perfringens</em> en comidas preparadas con anticipación.
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Abatidor de temperatura (<em>blast chiller</em>)").align-content-center
+            p.mb-0 Es un equipo de alta tecnología crucial para la seguridad alimentaria en cocinas de volumen. Su función es enfriar alimentos calientes (sopas, guisos, carnes cocidas) de 70 °C a 3 °C en menos de 90 minutos, "saltándose" la zona de peligro donde las bacterias se multiplican. Previene la proliferación de <em>Bacillus cereus</em> y <em>Clostridium perfringens</em> en comidas preparadas con anticipación.
 
     separador
     
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.2 Equipos clave para cocina saludable (vaporeras, air fryer, procesador)
+      h2 3.2 Equipos clave para cocina saludable (vaporeras, <em>air fryer</em>, procesador)
 
     p.mb-4 Los equipos para cocina saludable facilitan la aplicación de técnicas de preparación que permiten conservar las características de los alimentos, optimizar los procesos y reducir el uso excesivo de grasas. A continuación, se presentan algunos de los equipos más utilizados y sus principales aplicaciones: 
 
@@ -78,17 +78,17 @@
           img(src="@/assets/curso/tema3/img05.png")
       .col-lg-9.mb-0.mb-lg-0.order-2.order-lg-1
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-04")
-          div(titulo="Procesador de alimentos (Robot de cocina)")
+          div(titulo="Procesador de alimentos (robot de cocina)")
             .row.align-items-center.justify-content-center
               .col-lg-12
                 p.mb-0 Su función principal es procesar grandes volúmenes en segundos: picar, rallar, amasar, emulsionar. En cocina saludable, es la herramienta estrella para crear bases de salsas (como pesto sin queso, hummus de garbanzos), patés vegetales, granolas caseras sin azúcares añadidos, o para triturar verduras y crear cremas suaves sin necesidad de aditivos espesantes.
 
-          div(titulo="Freidora de aire (Air fryer)")
+          div(titulo="Freidora de aire (<em>air fryer</em>)")
             .row.align-items-center.justify-content-center
               .col-lg-12
                 p.mb-0 Es una revolución para la cocina saludable. Funciona haciendo circular aire a muy alta velocidad, lo que produce una textura crujiente similar a la fritura tradicional, pero con una cantidad mínima de aceite (a veces solo una cucharadita). Ideal para "freír" papas, alitas de pollo, vegetales empanizados con pan integral, o incluso para "asar" nueces y semillas.
 
-          div(titulo="Vaporera (Eléctrica o de olla)")
+          div(titulo="Vaporera (eléctrica o de olla)")
             .row.align-items-center.justify-content-center
               .col-lg-12
                 p.mb-0 La cocción al vapor es el método más respetuoso con los nutrientes. Las vaporeras eléctricas permiten cocinar varios alimentos simultáneamente en bandejas independientes, sin que los sabores se mezclen y sin necesidad de vigilancia constante. Preservan vitaminas hidrosolubles, minerales, color y textura crujiente.
@@ -96,12 +96,12 @@
           div(titulo="Licuadora de alta velocidad")
             .row.align-items-center.justify-content-center
               .col-lg-12
-                p.mb-0 Las licuadoras domésticas o industriales de alto rendimiento pueden romper las paredes celulares de frutas, verduras y semillas, liberando nutrientes de forma más eficiente. Son perfectas para crear smoothies densos y saciantes, sopas frías, leches vegetales caseras (de almendras, avena) y salsas emulsionadas sin usar aceite, aprovechando la textura cremosa del mismo vegetal (ej. una salsa de aguacate y cilantro).
+                p.mb-0 Las licuadoras domésticas o industriales de alto rendimiento pueden romper las paredes celulares de frutas, verduras y semillas, liberando nutrientes de forma más eficiente. Son perfectas para crear <em>smoothies</em> densos y saciantes, sopas frías, leches vegetales caseras (de almendras, avena) y salsas emulsionadas sin usar aceite, aprovechando la textura cremosa del mismo vegetal (ej. una salsa de aguacate y cilantro).
 
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.3 Utensilios esenciales: cuchillos, tablas, sistemas de medición.
+      h2 3.3 Utensilios esenciales: cuchillos, tablas, sistemas de medición
 
 
     p.mb-5 Los utensilios manuales son la base de la operación diaria. Su correcta selección y uso son fundamentales para la eficiencia, la seguridad y la consistencia.
@@ -178,7 +178,7 @@
         .tarjeta.bg-fondo-08.p-4.h-100.text-center
           img.img-85.mb-3.mx-auto(src='@/assets/curso/tema3/img16.png', alt='Cuchillo chef')
           h4.mb-2.text-center Cuchillo chef
-          p.mb-0.text-center Útil para picar, trocear y cortar en dados todo tipo de alimentos. Mantenerlo siempre afilado. (aplicar el código de colores)
+          p.mb-0.text-center Útil para picar, trocear y cortar en dados todo tipo de alimentos. Mantenerlo siempre afilado. (aplicar el código de colores).
 
       .col-md-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta.bg-fondo-08.p-4.h-100.text-center
@@ -239,7 +239,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require_src('@/assets/curso/tema3/img23.png')})`}")
             .tarjeta-flip__contenido.p-4.text-center
-              h4.mb-3 Materiales no tóxicos
+              h4.mb-3 Materiales no tóxicos, no absorbentes y resistentes a la corrosión
               p.mb-0 No deben transferir sustancias tóxicas ni absorber líquidos, olores o sabores. El acero inoxidable tipo 304 es el estándar por excelencia. Los plásticos de grado alimenticio y el silicón también son aceptables.
 
     .container
@@ -266,7 +266,7 @@
             span <b>Plásticos de grado alimentario:</b> como polipropileno (PP) y polietileno de alta densidad (HDPE). Livianos, resistentes a impactos y químicos. Se usan en tablas de colores, recipientes y utensilios. Deben reemplazarse si presentan rayaduras profundas o decoloración.
           li.d-flex.mb-0
             i.fas.fa-circle.fa-xs.bg-color-07.me-2
-            span <b>Silicón de grado alimentario:</b> flexible, resistente a un amplio rango de temperaturas (-40°C a 230°C), no poroso y antiadherente. Ideal para moldes, espátulas y tapas reutilizables.
+            span <b>Silicón de grado alimentario:</b> flexible, resistente a un amplio rango de temperaturas (-40 °C a 230 °C), no poroso y antiadherente. Ideal para moldes, espátulas y tapas reutilizables.
 
       .col-lg-3.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
         figure
@@ -297,7 +297,7 @@
     separador
     
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.5 Manejo seguro de equipos: manuales, limpieza y prevención.
+      h2 3.5 Manejo seguro de equipos: manuales, limpieza y prevención
 
     p.mb-5 La operación de cualquier equipo, desde un simple cuchillo hasta un horno combi, conlleva riesgos. La Ley 1562 de 2012 en Colombia y las normativas de seguridad y salud en el trabajo (SST) obligan a los empleadores a capacitar a su personal en el manejo seguro de equipos. El aprendiz debe interiorizar que la prevención es la mejor herramienta.
 

@@ -73,7 +73,7 @@
           span Pilares de la cocina saludable
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img05.png", alt="La figura muestra de manera circular los pilares de la cocina saludable mediante la integración de criterios relacionados con la calidad de los alimentos, la preparación equilibrada, el uso adecuado de métodos culinarios y la aplicación de prácticas higiénicas durante la manipulación. Las ilustraciones representan alimentos frescos, utensilios, equipos y acciones propias de la cocina, destacando que una alimentación saludable depende tanto de la elección de los ingredientes como de su correcta transformación y manejo.")
         img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img06.png", alt="La figura muestra de manera circular los pilares de la cocina saludable mediante la integración de criterios relacionados con la calidad de los alimentos, la preparación equilibrada, el uso adecuado de métodos culinarios y la aplicación de prácticas higiénicas durante la manipulación. Las ilustraciones representan alimentos frescos, utensilios, equipos y acciones propias de la cocina, destacando que una alimentación saludable depende tanto de la elección de los ingredientes como de su correcta transformación y manejo.")
-        figcaption Nota. Adaptado de la OMS (2026), Harvard T.H. Chan School of Public Health (2015) y lineamientos del Codex Alimentarius (2023).
+        figcaption Nota. Adaptado de la OMS (2026), Harvard T.H. Chan School of Public Health (2015) y lineamientos del <em>Codex Alimentarius</em> (2023).
 
     separador
     

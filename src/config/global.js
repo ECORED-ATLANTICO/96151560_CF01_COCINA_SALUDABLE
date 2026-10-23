@@ -254,44 +254,44 @@ export default {
       link: 'https://www.nestle.com.ec/sites/g/files/pydnoa396/files/2019-07/guia%20de%20tecnicas%20culinarias%20digital%20%28002%29.pdf',
     },
     {
-      referencia: 'Cadena, J., & Francisco, E. (2024). <em>Cocina Fría</em>.',
+      referencia: 'Cadena, J., & Francisco, E. (2024). Cocina Fría.',
       link: 'https://intesud-repositoriodigital.edu.ec/jspui/handle/INTESUD/117',
     },
     {
       referencia:
-        '<em>Codex Alimentarius</em> Commission. (2023). <em>Principios generales de higiene de los alimentos (CXC 1-1969)</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
+        '<em>Codex Alimentarius</em> Commission. (2023). Principios generales de higiene de los alimentos (CXC 1-1969). Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) y Organización Mundial de la Salud (OMS).',
       link: 'https://www.fao.org/fao-who-codexalimentarius',
     },
     {
       referencia:
-        'Congreso de la República de Colombia. (24 de enero de 1979). <em>Ley 9 de 1979, por la cual se dictan Medidas Sanitarias</em>. Diario Oficial No. 35308.',
+        'Congreso de la República de Colombia. (24 de enero de 1979). Ley 9 de 1979, por la cual se dictan Medidas Sanitarias. Diario Oficial No. 35308.',
       link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1177',
     },
     {
       referencia:
-        'Food and Agriculture Organization of the United Nations (FAO) & World Health Organization (WHO). (2023). <em>Análisis de riesgos de la inocuidad de los alimentos: Guía para autoridades nacionales de inocuidad de los alimentos</em>. FAO.',
+        'Food and Agriculture Organization of the United Nations (FAO) & World Health Organization (WHO). (2023). Análisis de riesgos de la inocuidad de los alimentos: Guía para autoridades nacionales de inocuidad de los alimentos. FAO.',
     },
     {
       referencia:
-        'Harvard T.H. Chan School of Public Health. (2015). <em>El plato para comer saludable</em>. The Nutrition Source.',
+        'Harvard T.H. Chan School of Public Health. (2015). El plato para comer saludable. The Nutrition Source.',
       link: 'https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/translations/spanish/',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (10 de diciembre de 1997). <em>Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979 y se dictan otras disposiciones</em>. Diario Oficial No. 43246.',
+        'Ministerio de Salud y Protección Social. (10 de diciembre de 1997). Decreto 3075 de 1997, por el cual se reglamenta parcialmente la Ley 09 de 1979 y se dictan otras disposiciones. Diario Oficial No. 43246.',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (22 de julio de 2013). <em>Resolución 2674 de 2013, por la cual se reglamenta el artículo 14 de la Ley 09 de 1979</em>. Diario Oficial No. 48877.',
+        'Ministerio de Salud y Protección Social. (22 de julio de 2013). Resolución 2674 de 2013, por la cual se reglamenta el artículo 14 de la Ley 09 de 1979. Diario Oficial No. 48877.',
     },
     {
       referencia:
-        'The Vollrath Company, L. L. C. (2012). <em>2012 CATÁLOGO INTERNACIONAL 2012</em>.',
+        'The Vollrath Company, L. L. C. (2012). 2012 CATÁLOGO INTERNACIONAL 2012.',
       link: 'https://pdf.archiexpo.es/pdf/vollrath/2012-international-catalog/10482-64164.html',
     },
     {
       referencia:
-        'Velasco, J. C. R. (2024, julio 18). <em>Técnicas básicas de cocina</em>. Sello Editorial Unicomfacauca.',
+        'Velasco, J. C. R. (2024, julio 18). Técnicas básicas de cocina. Sello Editorial Unicomfacauca.',
       link: 'https://selloeditorial.unicomfacauca.edu.co/Publicaciones/catalog/book/19',
     },
   ],

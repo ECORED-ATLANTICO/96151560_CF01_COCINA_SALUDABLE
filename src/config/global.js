@@ -250,7 +250,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Asociación de Chefs del Ecuador. (2018). <em>GUÍA DE TÉCNICAS CULINARIAS</em>.',
+        'Asociación de Chefs del Ecuador. (2018). GUÍA DE TÉCNICAS CULINARIAS.',
       link: 'https://www.nestle.com.ec/sites/g/files/pydnoa396/files/2019-07/guia%20de%20tecnicas%20culinarias%20digital%20%28002%29.pdf',
     },
     {

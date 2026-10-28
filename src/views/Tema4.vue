@@ -43,23 +43,23 @@
                 th Detalle
             tbody
               tr
-                td 1. Raspar y enjuagar
+                td A. Raspar y enjuagar
                 td Retirar restos grandes de comida.
                 td Usar una espátula o rasqueta. Enjuagar con agua tibia.
               tr
-                td 2. Lavar
+                td B. Lavar
                 td Aplicar detergente y fregar.
                 td Usar agua caliente (43 °C - 49 °C) y un cepillo o esponja designada.
               tr
-                td 3. Enjuagar
+                td C. Enjuagar
                 td Remover residuos de detergente.
                 td Con agua tibia limpia, asegurando que no quede jabón.
               tr
-                td 4. Sanitizar (desinfectar)
+                td D. Sanitizar (desinfectar)
                 td Aplicar solución desinfectante aprobada.
                 td Ej. cloro a 100 ppm o amonio cuaternario. Respetar tiempo de contacto (1-2 min).
               tr
-                td 5. Secar al aire
+                td E. Secar al aire
                 td Dejar secar naturalmente.
                 td No usar trapos que puedan recontaminar. Secar en escurridor limpio.
 
@@ -86,19 +86,19 @@
                 th Detalle
             tbody
               tr
-                td 1. Lavar
+                td A. Lavar
                 td Remover tierra y residuos visibles.
                 td Bajo chorro de agua potable, frotar suavemente con las manos o un cepillo suave.
               tr
-                td 2. Desinfectar
+                td B. Desinfectar
                 td Sumergir en solución clorada.
                 td Mezclar 2 gotas de cloro por cada litro de agua (1 cucharadita por 5 litros). Dejar reposar 10-15 minutos.
               tr
-                td 3. Enjuagar
+                td C. Enjuagar
                 td Retirar exceso de cloro.
                 td Enjuagar abundantemente con agua potable.
               tr
-                td 4. Secar
+                td D. Secar
                 td Eliminar el exceso de agua.
                 td Usar centrífuga de verduras o secar con papel de cocina desechable.
 
@@ -221,9 +221,20 @@
               p.mb-2 Corte transversal que produce piezas circulares u ovaladas de grosor uniforme, especialmente en alimentos de forma cilíndrica. Se utiliza frecuentemente en zanahorias, pepinos, calabacines y frutas para ensaladas, guarniciones, salteados, horneados y decoraciones.
               p.mb-0 <b>Dimensiones:</b> 2-5 mm de grosor.
 
-
-    figure.mb-3
-      img(src="@/assets/curso/intro/img04.png", alt="").mb-0
+    .container
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
+          .row.bg-fondo-11.align-items-center.justify-content-center.br-15.p-0
+            .col-md-8.col-lg-5.mb-3.mb-lg-0.order-2.order-md-2.order-lg-2.p-0
+              figure
+                img(src="@/assets/curso/tema3/img31.png", data-aos="fade-right").w-75.mx-auto
+            .col-lg-7.order-1.order-md-1.order-lg-1.p-4.p-lg-4
+              p(data-aos="fade-left").mb-4 A continuación, se invita a consultar el siguiente pódcast:
+              TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
+                texto="Dominando el cuchillo: técnicas de corte profesional en la cocina saludable"
+                tiempo
+                :audio="require_src('@/assets/curso/podcast/podcast2.mp3')"
+              )
 
     separador
     

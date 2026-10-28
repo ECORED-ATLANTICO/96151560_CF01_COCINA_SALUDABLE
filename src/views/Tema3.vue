@@ -98,6 +98,21 @@
               .col-lg-12
                 p.mb-0 Las licuadoras domésticas o industriales de alto rendimiento pueden romper las paredes celulares de frutas, verduras y semillas, liberando nutrientes de forma más eficiente. Son perfectas para crear <em>smoothies</em> densos y saciantes, sopas frías, leches vegetales caseras (de almendras, avena) y salsas emulsionadas sin usar aceite, aprovechando la textura cremosa del mismo vegetal (ej. una salsa de aguacate y cilantro).
 
+    .container
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
+          .row.bg-fondo-11.align-items-center.justify-content-center.br-15.p-0
+            .col-md-8.col-lg-5.mb-3.mb-lg-0.order-2.order-md-2.order-lg-2.p-0
+              figure
+                img(src="@/assets/curso/tema3/img31.png", data-aos="fade-right").w-75.mx-auto
+            .col-lg-7.order-1.order-md-1.order-lg-1.p-4.p-lg-4
+              p(data-aos="fade-left").mb-4 A continuación, se invita a consultar el siguiente pódcast:
+              TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
+                texto="Fundamentos de la cocina saludable, insumos, equipos y técnicas esenciales"
+                tiempo
+                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+              )
+
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

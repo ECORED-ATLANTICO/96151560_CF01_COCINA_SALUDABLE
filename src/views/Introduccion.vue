@@ -31,10 +31,6 @@
 
     p.mb-5 El componente Fundamentos de la cocina saludable dota al aprendiz de las herramientas necesarias para dar sus primeros pasos en este campo. Desarrollará una mirada crítica para evaluar materias primas, competencia técnica para manejar equipos de forma segura y habilidad práctica para aplicar cocciones que respetan los alimentos. Todo ello, transversalizado por el cumplimiento de las BPM y el marco normativo colombiano, garantizando la inocuidad como base innegociable de la calidad.
 
-    figure
-      img(src="@/assets/curso/intro/img04.png", alt="").mb-0
-
-
 </template>
 
 <script>

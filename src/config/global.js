@@ -227,7 +227,7 @@ export default {
         'Instituto nacional de vigilancia de medicamentos y alimentos. Entidad del estado colombiano encargada de la inspección, vigilancia y control sanitario de alimentos, medicamentos y otros productos de interés en salud pública.',
     },
     {
-      termino: 'Método PEPS (Primero en entrar, primero en salir)',
+      termino: 'Método PEPS (Primero en Entrar, Primero en Salir)',
       significado:
         'Sistema de rotación de inventarios que asegura que los productos con fecha de vencimiento o ingreso más antiguo se utilicen antes que los recién llegados.',
     },

@@ -43,23 +43,23 @@
                 th Detalle
             tbody
               tr
-                td A. Raspar y enjuagar
+                td A. Raspar y enjuagar.
                 td Retirar restos grandes de comida.
                 td Usar una espátula o rasqueta. Enjuagar con agua tibia.
               tr
-                td B. Lavar
+                td B. Lavar.
                 td Aplicar detergente y fregar.
                 td Usar agua caliente (43 °C - 49 °C) y un cepillo o esponja designada.
               tr
-                td C. Enjuagar
+                td C. Enjuagar.
                 td Remover residuos de detergente.
                 td Con agua tibia limpia, asegurando que no quede jabón.
               tr
-                td D. Sanitizar (desinfectar)
+                td D. Sanitizar (desinfectar).
                 td Aplicar solución desinfectante aprobada.
                 td Ej. cloro a 100 ppm o amonio cuaternario. Respetar tiempo de contacto (1-2 min).
               tr
-                td E. Secar al aire
+                td E. Secar al aire.
                 td Dejar secar naturalmente.
                 td No usar trapos que puedan recontaminar. Secar en escurridor limpio.
 
@@ -86,19 +86,19 @@
                 th Detalle
             tbody
               tr
-                td A. Lavar
+                td A. Lavar.
                 td Remover tierra y residuos visibles.
                 td Bajo chorro de agua potable, frotar suavemente con las manos o un cepillo suave.
               tr
-                td B. Desinfectar
+                td B. Desinfectar.
                 td Sumergir en solución clorada.
                 td Mezclar 2 gotas de cloro por cada litro de agua (1 cucharadita por 5 litros). Dejar reposar 10-15 minutos.
               tr
-                td C. Enjuagar
+                td C. Enjuagar.
                 td Retirar exceso de cloro.
                 td Enjuagar abundantemente con agua potable.
               tr
-                td D. Secar
+                td D. Secar.
                 td Eliminar el exceso de agua.
                 td Usar centrífuga de verduras o secar con papel de cocina desechable.
 
@@ -198,7 +198,7 @@
                 img(src="@/assets/curso/tema4/img14.png", alt="Corte Chiffonade", data-aos="zoom-in")
             .col-lg-7.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-2 <em>Chiffonade</em>
-              p.mb-2 Corte aplicado principalmente a vegetales de hoja y hierbas frescas, que consiste en enrollarlos y cortarlos transversalmente en tiras finas. Se utiliza frecuentemente en lechugas, espinaca, y otras hojas para ensaladas, sopas y decoraciones.
+              p.mb-2 Corte aplicado principalmente a vegetales de hoja y hierbas frescas, que consiste en enrollarlos y cortarlos transversalmente en tiras finas. Se utiliza frecuentemente en lechugas, espinaca y otras hojas para ensaladas, sopas y decoraciones.
               p.mb-0 <b>Dimensiones:</b> tiras finas de ancho variable.
 
         .tarjeta.p-4.h-100
@@ -266,33 +266,33 @@
                 th Alimentos ideales
             tbody
               tr
-                td <b>Vapor</b>
+                td <b>Vapor</b>.
                 td 95 °C – 100 °C
-                td Convección húmeda
+                td Convección húmeda.
                 td Preserva vitaminas hidrosolubles (C, B). No requiere grasas. Mantiene color y textura.
                 td Brócoli, zanahoria, pescado blanco, arroz.
               tr
-                td <b>Plancha / parrilla</b>
+                td <b>Plancha / parrilla</b>.
                 td 180 °C - 230 °C
-                td Conducción seca
+                td Conducción seca.
                 td Drena grasas. Produce reacción de Maillard (sabor) sin aceites pesados.
                 td Carnes magras, pescados, verduras en láminas.
               tr
-                td <b>Horneado</b>
+                td <b>Horneado</b>.
                 td 150 °C - 250 °C
-                td Convección seca
+                td Convección seca.
                 td Cocción uniforme. No requiere grasas añadidas si se usa papel vegetal.
                 td Vegetales asados, pescados en <em>papillote</em>, pechugas.
               tr
-                td <b>Escalfado</b>
+                td <b>Escalfado</b>.
                 td 70 °C - 80 °C
-                td Convección húmeda
+                td Convección húmeda.
                 td Técnica más delicada. No usa grasas. Preserva textura y nutrientes de alimentos frágiles.
                 td Huevos, pescados blancos, frutas (peras, duraznos).
               tr
-                td <b>Salteado saludable</b>
+                td <b>Salteado saludable</b>.
                 td 180 °C - 220 °C
-                td Conducción (con mínima grasa)
+                td Conducción (con mínima grasa).
                 td Cocción ultrarrápida (2-4 min). Preserva el "<em>crunch</em>" de las verduras. Usa solo 1 cucharadita de aceite.
                 td Tiras de pollo, tofu, brócoli, pimentón, zanahoria.
 
@@ -323,28 +323,28 @@
                 th Recomendaciones para cocina saludable
             tbody
               tr
-                td <b>Refrigeración</b>
-                td 0 °C a 4 °C
+                td <b>Refrigeración</b>.
+                td 0 °C a 4 °C.
                 td Ralentiza drásticamente el metabolismo bacteriano, pero no lo detiene.
                 td Almacenar alimentos cocinados en los estantes superiores y crudos en los inferiores. Usar recipientes herméticos.
               tr
-                td <b>Congelación</b>
-                td -18 °C o menos
+                td <b>Congelación</b>.
+                td -18 °C o menos.
                 td Detiene completamente el crecimiento bacteriano. El agua al congelarse forma cristales que pueden dañar la estructura celular del alimento.
                 td Congelar porciones individuales o envasar al vacío. Escaldar (blanquear) verduras antes de congelar para inactivar enzimas que causan pérdida de calidad.
               tr
-                td <b>Enfriado rápido (regla 2-4)</b>
-                td 60 °C → 21 °C en &lt; 2h → 4 °C en &lt; 4h
+                td <b>Enfriado rápido (regla 2-4)</b>.
+                td 60 °C → 21 °C en &lt; 2h → 4 °C en &lt; 4h.
                 td Es el método para sacar los alimentos calientes de la zona de peligro lo más rápido posible.
                 td Dividir grandes volúmenes en porciones pequeñas y poco profundas, usar baño de agua con hielo (o <em>blast chiller</em>) y agitar para acelerar la pérdida de calor.
               tr
-                td <b>Encurtido</b>
-                td Ambiente (ácido)
+                td <b>Encurtido</b>.
+                td Ambiente (ácido).
                 td Sumergir alimentos en una solución ácida (vinagre) de pH bajo (&lt;4.6). La acidez inhibe la mayoría de las bacterias patógenas.
                 td Ideal para pepinos, cebollas moradas, zanahoria o jalapeños. Se pueden añadir especias y hierbas para sabor sin sal añadida.
               tr
-                td <b>Conservación en aceite</b>
-                td Ambiente (anaeróbico)
+                td <b>Conservación en aceite</b>.
+                td Ambiente (anaeróbico).
                 td Sumergir alimentos (generalmente deshidratados o cocidos en ácido) en aceite. El aceite aísla del oxígeno.
                 td <b>¡Precaución!</b> El aceite puede crear un ambiente anaeróbico donde crezca <em>Clostridium botulinum</em> si el alimento no está acidificado o deshidratado previamente. Usar solo para alimentos previamente deshidratados (ej. tomates secos) o encurtidos (ej. ajos en vinagre antes de cubrir con aceite).
 
@@ -361,8 +361,8 @@
           h5.text-bold.mb-0 Figura 3.
           span Zona de peligro (5 °C - 60 °C)
         figure
-          img.d-none.d-lg-flex(src="@/assets/curso/tema4/img20.svg", alt="La figura ilustra el rango de temperatura conocido como zona de peligro, entre 5 °C y 60 °C, donde los microorganismos se multiplican rápidamente. Se destacan las temperaturas seguras de refrigeración y cocción para garantizar la inocuidad alimentaria.")
-          img.d-lg-none(src="@/assets/curso/tema4/img21.svg", alt="La figura ilustra el rango de temperatura conocido como zona de peligro, entre 5 °C y 60 °C, donde los microorganismos se multiplican rápidamente. Se destacan las temperaturas seguras de refrigeración y cocción para garantizar la inocuidad alimentaria.")
+          img.d-none.d-lg-flex(src="@/assets/curso/tema4/img20.svg", alt="La figura en forma de termómetro representa la relación entre la temperatura de conservación o cocción y el crecimiento de microorganismos en los alimentos. La zona central señala el intervalo térmico donde aumenta considerablemente el riesgo de proliferación bacteriana, mientras que los extremos muestran condiciones de frío y calor que ayudan a controlar este crecimiento. La figura destaca la importancia de mantener los alimentos a temperaturas adecuadas durante su almacenamiento, preparación y servicio, evitando exposiciones prolongadas a condiciones que puedan comprometer su inocuidad y aumentar el riesgo de enfermedades transmitidas por alimentos.")
+          img.d-lg-none(src="@/assets/curso/tema4/img21.svg", alt="La figura en forma de termómetro representa la relación entre la temperatura de conservación o cocción y el crecimiento de microorganismos en los alimentos. La zona central señala el intervalo térmico donde aumenta considerablemente el riesgo de proliferación bacteriana, mientras que los extremos muestran condiciones de frío y calor que ayudan a controlar este crecimiento. La figura destaca la importancia de mantener los alimentos a temperaturas adecuadas durante su almacenamiento, preparación y servicio, evitando exposiciones prolongadas a condiciones que puedan comprometer su inocuidad y aumentar el riesgo de enfermedades transmitidas por alimentos.")
           figcaption Nota. Adaptado del <em>Codex Alimentarius</em> (2023) y lineamientos de BPM (Resolución 2674 de 2013).
 
 

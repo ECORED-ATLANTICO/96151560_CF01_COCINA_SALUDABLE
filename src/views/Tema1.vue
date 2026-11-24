@@ -44,7 +44,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-12
                 p.mb-3 Se busca un plato colorido y variado, que garantice un amplio espectro de vitaminas, minerales y fitoquímicos. Como veremos, el "plato de Harvard" es una excelente guía visual para lograr esto.
-                p.mb-0 <b>Ejemplo:</b> preparar una ensalada de espinaca, tomate y pimentón acompañado con lentejas y unas gotas de limón.
+                p.mb-0 <b>Ejemplo:</b> preparar una ensalada de espinaca, tomate y pimentón acompañada con lentejas y unas gotas de limón.
 
           div(titulo="Mínima intervención perjudicial")
             .row.align-items-center.justify-content-center

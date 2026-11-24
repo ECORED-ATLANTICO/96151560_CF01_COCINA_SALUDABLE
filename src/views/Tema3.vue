@@ -402,7 +402,7 @@
                 .col-8
                   img(src='@/assets/curso/tema3/img30.svg' alt='Almacenar en lugar seguro', style="width: 90px; height: 90px; ").mx-auto
               h4.text-center Almacenar en lugar seguro
-              p.text-center.mb-0 Los utensilios cortopunzantes (cuchillos) deben guardarse en su soporte magnético o en estuches, nunca sueltos en un cajón. Los equipos móviles deben guardarse con el cable enrollado sin nudos y lejos de fuentes de calor.
+              p.text-center.mb-0 Los utensilios cortopunzantes (cuchillos) deben guardarse en su soporte magnético o en estuches, nunca sueltos en un cajón. Los equipos móviles deben guardarse con el cable enrollado, sin nudos y lejos de fuentes de calor.
 
     p.mb-4.mt-5 El uso de equipos y utensilios de cocina requiere aplicar medidas de seguridad que permitan prevenir cortes, quemaduras y otros accidentes durante la preparación de los alimentos. Reconocer los riesgos asociados con elementos cortopunzantes, superficies calientes y equipos de cocción facilita adoptar prácticas de manipulación segura. A continuación, se presentan algunas situaciones que requieren especial atención y prevención en la cocina:
 

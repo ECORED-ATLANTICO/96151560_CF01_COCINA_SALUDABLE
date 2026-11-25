@@ -24,9 +24,9 @@ export default {
       barajarPreguntas: true,
       titulo_aprobado: '¡EXCELENTE!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
-      mensaje_aprobado:
+      mensaje_final_aprobado:
         '¡Excelente! ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
-      mensaje_reprobado:
+      mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
       preguntas: [
         {
